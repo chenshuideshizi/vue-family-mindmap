@@ -1,18 +1,13 @@
-![vue](https://upload-images.jianshu.io/upload_images/12890819-7820bc20092c4c40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+# Vue Family MindMap
 ## 1.前言
 
 本文内容讲解的内容：**一张思维导图辅助你深入了解 Vue | Vue-Router | Vuex 源码架构**。
 
-项目地址：[https://github.com/biaochenxuying/vue-family-mindmap](https://github.com/biaochenxuying/vue-family-mindmap)
-
 [详细图](./Vue-family.jpg)
 
-[文章的图文结合版](https://biaochenxuying.cn/articleDetail?article_id=5cd7896c74289f3d47ed13ea)
+[Vue-family.md](./vue-family-mindmap/blob/master/Vue-family.md)
 
-[Vue-family.md](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.md)
-
-[Vue-family.pdf](https://github.com/biaochenxuying/vue-family-mindmap/blob/master/Vue-family.pdf)
+[Vue-family.pdf](./vue-family-mindmap/blob/master/Vue-family.pdf)
 
 
 
@@ -148,7 +143,6 @@ Vuex 详细图：
 
 笔者之所以采用思维导图的形式来记录所学内容，是因为思维导图更能反映知识体系与结构，更能使人形成完整的知识架构，知识一旦形成一个体系，就会容易理解和不易忘记。
 
-> **注意**：文章的图片可能上传时会经过压缩，可能有点模糊，不过本文用到的 所有 **超清图片** 都已经放在 [github](https://github.com/biaochenxuying/vue-family-mindmap) 上，而且还有 **pdf 格式、markdown 语法、思维导图 的原文件**，自己可以根据 **思维导图原文件** 导出相应的超清图片。
 
 笔者文章常更地址：[github](https://github.com/biaochenxuying/blog) 
 
@@ -162,3 +156,7 @@ Vuex 详细图：
 
 1. [https://github.com/ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
 2. [https://github.com/HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)
+
+------split line------
+
+原文地址: https://github.com/biaochenxuying/vue-family-mindmap
